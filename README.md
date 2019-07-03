@@ -7,7 +7,7 @@ In this repository you can find resources to getting started with git as a versi
 You can find the training slides in the following Google drive folder:
 [Training slides](https://drive.google.com/drive/folders/1BK09a2CGEOodM1cxIlnDspy-dhFNoEf7?usp=sharing)
 
-## Theory and resoruces
+## Theory and resources
 
 We covered different topics and aspect of how to use git on a daily basis. To get a more solid understandig of distributed version control please check the following pages:
 
